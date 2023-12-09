@@ -1,0 +1,9 @@
+cvzone==1.6.1
+filterpy==1.4.5
+lap==0.4.0
+matplotlib==3.8.0
+numpy==1.21.6
+scipy==1.11.3
+skimage==0.0
+super-gradients
+torch
